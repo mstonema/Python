@@ -1,3 +1,3 @@
 # Python
 
-<p>OpenFileClass.py opens a file using OOD</P>
+<p>Just a place to backup and share my Python code.</P>
