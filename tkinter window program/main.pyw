@@ -1,10 +1,10 @@
-import Window
+import Program
+
 
 def main():
-    w = Window.Window()
-    w.menu()
-    w.runWindow()
+    p = Program.Program()
+    p.menu()
+    p.mainloop()
 
 if __name__ == '__main__':
     main()
-    
